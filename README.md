@@ -105,6 +105,19 @@ Future iterations may examine:
 
 The project uses publicly available reporting and institutional sources.
 
+
+## Risk Dashboard
+
+The current dashboard provides a visual summary of the event-level dataset, including risk-direction classifications, category distribution and impact-level distribution.
+
+![India Political Risk Dashboard](risk-dashboard.png)
+
+## Project Files
+
+- [Dataset](india_political_risk_data.csv)
+- [Methodology](METHODOLOGY.md)
+- [Current Analysis](ANALYSIS.md)
+- [Risk Dashboard](risk-dashboard.png)
 Each event is recorded with its source publication or institution to maintain traceability.
 
 ## Status
