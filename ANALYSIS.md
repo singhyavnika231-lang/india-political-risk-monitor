@@ -92,6 +92,21 @@ The current dataset contains events across five monitoring categories:
 | Institutional & Policy | 2 | 10% |
 
 The distribution reflects the composition of the current sample and should not be interpreted as a measure of the relative importance or riskiness of these categories.
+## Key Observations
+
+Several patterns emerge from the current 20-event sample:
+
+1. Economic & Regulatory developments account for 10 of the 20 recorded events, making this the largest category in the current dataset.
+
+2. Geopolitical & Security developments account for 5 events, covering developments involving India-US relations, India-China relations, India-Pakistan relations and multilateral diplomacy.
+
+3. Domestic Political Stability and Institutional & Policy developments account for 2 events each, while Social & Civil Unrest accounts for 1 event.
+
+4. Fifteen of the 20 events in the current dataset are classified as Increasing, three as Stable and two as Decreasing within the project's classification framework.
+
+5. Thirteen events are classified at impact level 4 — High. No events in the current sample are classified at level 5 — Severe.
+
+These observations describe the composition of the current dataset. They should not be interpreted as forecasts or as evidence that one category is inherently more important or risky than another.
 
 ## Next Update
 
