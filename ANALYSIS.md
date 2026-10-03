@@ -65,6 +65,33 @@ The current analysis has several limitations:
 - The dataset does not represent every relevant development affecting India.
 - The framework is descriptive and exploratory rather than predictive.
 - The classifications should not be interpreted as probabilities of future events.
+- ## Impact Level Distribution
+
+The 20 recorded events are classified across five impact levels:
+
+| Impact Level | Events | Share |
+|---|---:|---:|
+| 1 — Minimal | 3 | 15% |
+| 2 — Low | 1 | 5% |
+| 3 — Moderate | 3 | 15% |
+| 4 — High | 13 | 65% |
+| 5 — Severe | 0 | 0% |
+
+These figures describe the classifications recorded in the current dataset. They are not intended to represent an objective or official measure of political risk.
+
+## Category Distribution
+
+The current dataset contains events across five monitoring categories:
+
+| Category | Events | Share |
+|---|---:|---:|
+| Domestic Political Stability | 2 | 10% |
+| Social & Civil Unrest | 1 | 5% |
+| Geopolitical & Security | 5 | 25% |
+| Economic & Regulatory | 10 | 50% |
+| Institutional & Policy | 2 | 10% |
+
+The distribution reflects the composition of the current sample and should not be interpreted as a measure of the relative importance or riskiness of these categories.
 
 ## Next Update
 
